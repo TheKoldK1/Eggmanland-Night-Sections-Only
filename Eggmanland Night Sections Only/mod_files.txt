@@ -1,3 +1,9 @@
+add work/Act_EggmanLand/BaseEvil.set.xml
+add work/Act_EggmanLand/system.set.xml
+add +#Act_EggmanLand.ar.00
+add +#Act_EggmanLand.arl
 add +#Application.ar.00
 add +#Application.arl
+add +EvilActionCommon_EggmanLand.ar.00
+add +EvilActionCommon_EggmanLand.arl
 add mod.ini
